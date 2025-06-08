@@ -1,16 +1,5 @@
-# some text to test
+## Testing new branch 'new-branch'
 
-just some text
+After that i would __merge__ it or to create a __pull request__ :)
 
-# ADITIONAL TEXT FOR UPDATING COMMIT
-
-branch of updates none-commited changes (very bad)
-
-this is bound to cause a problem
-
-i think shit will not happen
-
-
-
-MODIFIED!!
-
+So few changes been *made*
