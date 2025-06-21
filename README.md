@@ -6,4 +6,12 @@ So few changes been *made*
 
 ### ADDING TO EXISTING BRANCH
 
-version been changed to |__1.1__|
+version been changed to __1.1__
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
