@@ -4,6 +4,6 @@ After that i would __merge__ it or to create a __pull request__ :)
 
 So few changes been *made*
 
-###ADDING TO EXISTING BRANCH
+### ADDING TO EXISTING BRANCH
 
-version been changed to __*1.1*__
+version been changed to __|1.1|__
