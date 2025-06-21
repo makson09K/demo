@@ -6,4 +6,4 @@ So few changes been *made*
 
 ### ADDING TO EXISTING BRANCH
 
-version been changed to __|1.1|__
+version been changed to |__1.1__|
