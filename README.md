@@ -44,12 +44,12 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Add as many paragraphs as you like.
   
-[^note1] text plain
-[^note2] text adv
+[^1] text plain
+[^2] text adv
 
-[^note1] !alfasdflasdfk
+[^1] !alfasdflasdfk
 
-[^note2] ;laksj;dlfkajsd;flaksdf
+[^2] ;laksj;dlfkajsd;flaksdf
 
     asdfasdfa
     sdf
