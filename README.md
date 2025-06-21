@@ -16,4 +16,7 @@ version been changed to __1.1__
 }
 ```
 
-adding ver important ==words==
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
