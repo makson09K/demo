@@ -38,9 +38,32 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Indent paragraphs to include them in the footnote.
 
-    ```json
-    { my code }
+    ```
+    {my code}
     ```
 
     Add as many paragraphs as you like.
   
+[^note1] text plain
+[^note2] text adv
+
+[^note1] !alfasdflasdfk
+
+[^note2] ;laksj;dlfkajsd;flaksdf
+
+    asdfasdfa
+    sdf
+    as
+    df
+    asd
+    fasdf
+    as
+    dfa
+    s
+    df
+    asdfa
+    sd
+
+    asdfs
+
+asdfasdf
