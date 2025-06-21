@@ -1,4 +1,4 @@
-## Testing new branch 'new-branch'
+ ## Testing new branch 'new-branch'
 
 After that i would __merge__ it or to create a __pull request__ :)
 
@@ -44,12 +44,12 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Add as many paragraphs as you like.
   
-[^1] text plain
-[^2] text adv
+[^3] text plain
+[^bignote] text adv
 
-[^1] !alfasdflasdfk
+[^3] !alfasdflasdfk
 
-[^2] ;laksj;dlfkajsd;flaksdf
+[^bignote] ;laksj;dlfkajsd;flaksdf
 
     asdfasdfa
     sdf
