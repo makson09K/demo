@@ -47,23 +47,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 [^3] text plain
 [^bignote] text adv
 
-[^3] !alfasdflasdfk
+[^3]: !alfasdflasdfk
 
-[^bignote] ;laksj;dlfkajsd;flaksdf
+[^bignote]: ;laksj;dlfkajsd;flaksdf
 
-    asdfasdfa
-    sdf
-    as
-    df
-    asd
-    fasdf
-    as
-    dfa
-    s
-    df
-    asdfa
-    sd
-
-    asdfs
-
-asdfasdf
