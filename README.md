@@ -8,6 +8,8 @@ So few changes been *made*
 
 version been changed to __1.1__
 
+
+
 ```json
 {
   "firstName": "John",
@@ -16,19 +18,28 @@ version been changed to __1.1__
 }
 ```
 
+
+
 | Syntax | Description |
 | --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
 
+
 ~~interesting~~
+
+
 
 - [ ] test 1
 - [x] test 2
 - [ ] test 3
 
+
+
 <mark>marking<mark>
+
+
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
