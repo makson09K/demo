@@ -43,11 +43,4 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     ```
 
     Add as many paragraphs as you like.
-  
-[^3] text plain
-[^bignote] text adv
-
-[^3]: !alfasdflasdfk
-
-[^bignote]: ;laksj;dlfkajsd;flaksdf
 
